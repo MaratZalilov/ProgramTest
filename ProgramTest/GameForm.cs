@@ -36,7 +36,6 @@ namespace ProgramTest
         private void Buttons_Click(object sender, EventArgs e)
         {
             
-            
 
             QuestionAndAnswerGeneration(sender,e);
 
